@@ -97,4 +97,5 @@ export default function ConnectComponent() {
 ### TODO
 
 - [ ] Fortmatic
-- [ ] Others
+- [ ] Coinbase Wallet
+- [ ] Portis
